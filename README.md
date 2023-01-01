@@ -1,0 +1,2 @@
+# create_a_3d_text_object_using_a_script_created_by_OpenAI
+Addon created for Blender using Open AI
